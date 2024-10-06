@@ -62,3 +62,5 @@ const isRecursiveFactorial = (n) =>{
 }
 
 // console.log(isRecursiveFactorial(5))
+
+console.log(first)
